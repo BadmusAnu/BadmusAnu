@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Badmus Anuoluwapo
-- 👀 I’m interested in Infomation Security
-- 🌱 I’m currently learning Penetration Testing/ Ethical Hacking
-- 💞️ I’m looking to collaborate on Ethical Hacking and Threat Hunting
+- 👀 I’m interested in DevOps/SRE, DevSecOps, Cloud
+- 🌱 I’m currently learning Terraform, Cloud Security
+- 💞️ I’m looking to collaborate on Cloud Security, DevOps, etc.
 - 📫 Reach me on Twitter @badmus_anu, or Email : badmusanuoluwa@yahoo.com
 
 <!---
