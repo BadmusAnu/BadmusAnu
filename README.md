@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Badmus Anuoluwapo
 - 👀 I’m interested in DevOps/SRE, DevSecOps, Cloud
-- 🌱 I’m currently learning Terraform, Cloud Security
+- 🌱 I’m currently learning Terraform, Cloud Security, Docker, K8s, GitHub Actions, etc,
 - 💞️ I’m looking to collaborate on Cloud Security, DevOps, etc.
 - 📫 Reach me on Twitter @badmus_anu, or Email : badmusanuoluwa@yahoo.com
 
